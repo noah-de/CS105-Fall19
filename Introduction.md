@@ -1,17 +1,14 @@
-CS105 Introductions
+CS 105 Introductions
 ========================================================
-author: 
-date: 
+author: Noah Spahn
+date: Westmont College
 autosize: true
 
-First Slide
+Course Information
 ========================================================
 
-For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
+ - **Time:** Mon/Wed 4-5:50pm
+ - **Instructor** Noah Spahn
 
 Slide With Code
 ========================================================
@@ -35,3 +32,22 @@ Slide With Plot
 ========================================================
 
 ![plot of chunk unnamed-chunk-2](Introduction-figure/unnamed-chunk-2-1.png)
+
+About me
+====================================
+type: section
+
+Education
+
+  * BS from Biola University in 2003
+  * MS in Software Engineering from CSU Fullerton 2016
+  
+Work
+  * Began my own business after college
+  * 12 years as Enterprise level Software Engineer at UCSB
+  * Joined Westmont staff in Fall 2019
+
+
+Prompt Slide
+====================================
+type: prompt
