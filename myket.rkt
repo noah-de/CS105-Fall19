@@ -13,10 +13,10 @@
 ;; Because I like syntax-parse
 (require (for-syntax syntax/parse))
 
-(provide weedo SEVEN def)
+(provide plus SEVEN def)
 
 ;; Adds the two given numbers together
-(define/contract (weedo a b)
+(define/contract (plus a b)
   (number? number? . -> . number?)
   (+ a b))
 
