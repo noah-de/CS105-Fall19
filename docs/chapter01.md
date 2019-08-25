@@ -1,4 +1,4 @@
-# Chapter 1
+# Preliminaries
 
 ## sample code blocks
 Java has several ways to increment an integer variable:
