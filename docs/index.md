@@ -6,4 +6,4 @@ We can anticipate a rich learning experience from the input of an involved class
 
 There will be lectures, discussions, quizzes, in-class assignments and a group project.
 
-Right now this is just a markdown file, but we should be able to utilize the features of [jekyl](https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages).
+Right now this is just a collection of markdown files, but we should be able to utilize the features of [jekyl](https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages) if needed.
