@@ -1,5 +1,8 @@
 # Data Types
 
+## String
+
+## Array
 - **static array**: static. bound to storage _before run time_. 
                     no dynamic allocation/deallocation is required (++efficiency)
 - **fixed stack-dynamic array**: array subscript ranges are statically bound but allocation is done at declaration elaboration (_during execution_)
