@@ -4,13 +4,17 @@ Functional languages are especially good at knowledge representation, AI, and ma
 
 ## subsection: examples
 Scheme example that defines two functions one for hypotenuse and another for square:
+
+```scheme
 (define (square x)
   (* x x))
-
+  
 (define (hypotenuse a b)
   (sqrt ( + (square a) (square b)) )
 )
-##subsection: terms
+```
+
+## subsection: terms
 A higher-order function/functional form- a function that either takes  functions as arguments, yields a function as its result, or has both.
 
 Referential transparency- any two expressions having the same value that can be replaced with one another without changing the result of the program.
