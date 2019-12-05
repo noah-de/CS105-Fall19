@@ -1,0 +1,26 @@
+chapter 9: sub programs
+function vs procedure
+formal parameters vs informal parameters
+3 semantics models for parameter passing
+
+chapter 10: implementing subprograms
+status execution
+Linker
+Activation Record Index
+Call Stack 
+Dynamic and static chains
+
+chapter 11: abstract data types
+Stack
+Types of abstraction
+C++ handling abstract data types
+Ruby... Other languages
+
+chapter 13: concurrency
+levels of concurrency
+goals of concurrency
+types of concurrency
+specific constraints
+
+chapter 14: exception handling
+Terms and definitions
